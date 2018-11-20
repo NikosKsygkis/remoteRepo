@@ -1,9 +1,5 @@
 foods
 pizza
 souvlaki
-<<<<<<< HEAD
 pita
 apple
-=======
-pita
->>>>>>> parent of c3b0720... evgala tin pita
