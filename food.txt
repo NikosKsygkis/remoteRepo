@@ -1,9 +1,3 @@
 foods
 pizza
 souvlaki
-<<<<<<< HEAD
-pita
-=======
-pita
-apple
->>>>>>> parent of a27bf71... ksana to food
